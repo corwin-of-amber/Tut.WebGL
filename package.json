@@ -1,0 +1,7 @@
+{
+	"name": "webgl.scene",
+	"main": "index.html",
+	"dependencies": {
+		"three": "^0.106.2"
+	}
+}
