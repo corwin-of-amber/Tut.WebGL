@@ -2,6 +2,6 @@
 	"name": "webgl.scene",
 	"main": "index.html",
 	"dependencies": {
-		"three": "^0.106.2"
+		"three": "^0.125.0"
 	}
 }
